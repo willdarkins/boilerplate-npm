@@ -3,6 +3,7 @@
 	"author": "Will Darkins",
 	"description": "A learning package that allows people to learn while learning.",
 	"keywords": ["freecodecamp", "sexy"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
