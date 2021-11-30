@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Will Darkins",
 	"description": "A learning package that allows people to learn while learning.",
+	"keywords": ["freecodecamp", "sexy"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
