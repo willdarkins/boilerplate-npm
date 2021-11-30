@@ -1,6 +1,6 @@
 {
-	"author": "Will Darkins",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Will Darkins",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
