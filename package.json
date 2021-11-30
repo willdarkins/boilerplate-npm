@@ -4,6 +4,7 @@
 	"description": "A learning package that allows people to learn while learning.",
 	"keywords": ["freecodecamp", "sexy"],
 	"license": "MIT",
+	"version": "2.o",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
